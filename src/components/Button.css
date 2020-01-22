@@ -1,0 +1,27 @@
+.btn-wrapper {
+  height: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 2em;
+  background-color: wheat;
+  color: #888888;
+  flex: 1;
+  outline: 1px solid white;
+}
+
+.operator {
+  background-color: blue;
+  color: white;
+}
+
+.btn-wrapper:hover {
+  background-color: lightgoldenrodyellow;
+  font-weight: bold;
+}
+
+.operator:hover {
+  background-color: turquoise;
+  color: black;
+}
