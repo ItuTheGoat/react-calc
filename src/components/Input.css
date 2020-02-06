@@ -1,5 +1,5 @@
 .input {
-  height: 4em;
+  height: 1.8em;
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -8,5 +8,6 @@
   background-color: black;
   color: white;
   padding: 0.5em;
-  outline: 1px solid #0008c8;
+  outline: transparent;
+  opacity: 0.8;
 }

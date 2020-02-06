@@ -7,10 +7,10 @@
   font-size: 2em;
   color: black;
   flex: 1;
-  outline: 1px solid #0008c8;
+  padding: 5px;
+  background-color: #fdf7ff;
 }
 
 .btn-clear:hover {
-  background-color: #fdf7ff;
-  font-weight: bold;
+  opacity: 0.8;
 }
